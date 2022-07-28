@@ -117,4 +117,4 @@ $ pm2 start app.js -i max
 
 # 许可协议
 
-[MIT](https://github.com/windowsair/fzu-cpDailySign/blob/master/LICENSE)
+[MIT](https://github.com/windowsair/fzu-cpDailySign/blob/master/LICENSE)# cp
